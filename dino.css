@@ -1,8 +1,12 @@
 body{
-    margin: 0;
-    padding: 0;
     text-align: center;
     background-color: darkred;
     color: #ffffff;
+}
+
+#board{
+    background-color: #fff;
+    border-bottom: 1px solid black;
+ /* border-bottom: width style color; */
 }
 
