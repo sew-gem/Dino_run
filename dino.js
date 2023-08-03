@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // board
 let board;
 let boardWidth = 750;
@@ -196,4 +195,4 @@ function placeCatus(){
 function detectCollision(a, b){
     //return....
 }
->>>>>>> 3e9537fcd2deb07df7fb83fe3449c5d2dff5eb7b
+
