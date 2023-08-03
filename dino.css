@@ -1,11 +1,17 @@
 body {
     font-family:'Courier New', Courier, monospace;
     text-align: center;
-    /* background-color: darkred; */
+    color: white;
+    background-color: darkred;
     background-image:url("stars.jpg");
 }
 
 #board {
     background-color: whitesmoke;
     border-bottom: 1px solid rgb(92, 86, 86);
+    box-shadow: 6px 6px 13px #fff,
+                6px 6px 13px rgba(0,0,0.16);
+    border-radius: 28px;
+    padding: 16px;
+    grid-template-columns: repeat(4,66px);
 }
