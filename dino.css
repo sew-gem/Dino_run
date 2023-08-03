@@ -1,12 +1,11 @@
-body{
+body {
+    font-family:'Courier New', Courier, monospace;
     text-align: center;
-    background-color: darkred;
-    color: #ffffff;
+    /* background-color: darkred; */
+    background-image:url("stars.jpg");
 }
 
-#board{
-    background-color: #fff;
-    border-bottom: 1px solid black;
- /* border-bottom: width style color; */
+#board {
+    background-color: whitesmoke;
+    border-bottom: 1px solid rgb(92, 86, 86);
 }
-
